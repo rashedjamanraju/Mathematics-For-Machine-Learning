@@ -59,6 +59,4 @@ You can run any `.ipynb` file interactively in your browser via Google Colab to 
 *   **Compiled, Verified & Adapted by:** Rashed Jaman Raju (Based on rigorous self-study, step-by-step video note-taking, and active comprehension)
 <<<<<<< HEAD
 *   **Technical Synthesis & Visualizations:** Formatted and structured with the assistance of Google Gemini.
-=======
-*   **Technical Synthesis & Visualizations:** Formatted and structured with the assistance of Google Gemini.
->>>>>>> f5462cafd278eedaf75794a3dff0f48c121e97d6
+
